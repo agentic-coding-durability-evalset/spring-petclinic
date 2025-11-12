@@ -10,7 +10,6 @@ The current FIND OWNERS page already supports the functionality of querying Owne
 - Modify the backend search logic to support both parameters for searching. Pet name needs to support fuzzy query.
 - Generate corresponding unit tests and try to run them successfully.
 ```
----
 
 ## Task 2
 
